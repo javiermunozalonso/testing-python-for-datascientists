@@ -1,9 +1,10 @@
 altair==4.2.0
 ipykernel==6.15.1
-ipython==1.30
+ipython==8.6.0
 jupyterlab==3.5.0
 jupyterlab-git==0.39.3
 jupyterlab-code-formatter==1.5.3
+kaggle==1.5.12
 matplotlib==3.6.1
 missingno==0.5.1
 numpy==1.23.3
