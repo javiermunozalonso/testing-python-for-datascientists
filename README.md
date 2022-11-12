@@ -14,6 +14,14 @@ Downloading and install [conda](https://docs.conda.io/projects/conda/en/stable/u
 conda env create -f .\environment.yml
 ```
 
+## Dataset
+
+If you don't have a API Token from kaggle you need to create one to follow [these steps](https://www.kaggle.com/docs/api#getting-started-installation-&-authentication) and use the next command or you can download manually the csv file and put it in the local location ```./data```.
+
+```bash
+conda activate testing && python download_data.py
+```
+
 ## References
 
 1. [Netflix dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
