@@ -16,7 +16,7 @@ conda env create -f .\environment.yml
 
 ## References
 
-1. [Netflix dataset](https://www.kaggle.com/code/shivamb/netflix-shows-and-movies-exploratory-analysis)
+1. [Netflix dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 2. [Notebook dataset overview](https://www.kaggle.com/code/shivamb/netflix-shows-and-movies-exploratory-analysis)
 
