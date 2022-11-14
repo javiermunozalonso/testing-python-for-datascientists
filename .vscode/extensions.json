@@ -1,0 +1,20 @@
+{
+	"recommendations": [
+		"littlefoxteam.vscode-python-test-adapter",
+		"ms-python.python",
+		"hbenl.vscode-test-explorer",
+		"donjayamanne.python-environment-manager",
+		"njpwerner.autodocstring",
+		"kevinrose.vsc-python-indent",
+		"ms-python.isort",
+		"ms-python.vscode-pylance",
+		"leodevbro.blockman",
+		"codeavecjonathan.importmagic",
+		"oderwat.indent-rainbow",
+		"ms-toolsai.jupyter",
+		"magicstack.magicpython",
+		"yzhang.markdown-all-in-one",
+		"ms-vscode.vscode-markdown-notebook",
+		"davidanson.vscode-markdownlint"
+	]
+}
