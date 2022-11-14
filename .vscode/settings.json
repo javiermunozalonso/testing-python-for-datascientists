@@ -1,12 +1,5 @@
 {
 	"python.testing.pytestArgs": ["test"],
 	"python.testing.unittestEnabled": false,
-	"python.testing.pytestEnabled": true,
-	"testExplorer.useNativeTesting": false,
-	"testExplorer.addToEditorContextMenu": false,
-	"testExplorer.mergeSuites": false,
-	"python.testing.pytestPath": "pytest",
-	"python.testing.unittestArgs": ["-v", "-s", ".", "-p", "*test*.py"],
-	"testExplorer.showOnRun": false,
-	"testExplorer.showCollapseButton": true
+	"python.testing.pytestEnabled": true
 }
